@@ -1,6 +1,6 @@
 module.exports = {
   entry: {
-    app: 'app/web/page/app/index.jsx',
+    app: 'app/web/page/index.jsx',
   },
   plugins:[
     { imagemini: false }

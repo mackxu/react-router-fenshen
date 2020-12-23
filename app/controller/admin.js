@@ -1,4 +1,3 @@
-
 module.exports = app => {
   return class AdminController extends app.Controller {
     

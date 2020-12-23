@@ -1,5 +1,5 @@
-import Root from './root'
-import { loadComponent } from '../../../utils/route'
+import Root from '../component/root'
+import { loadComponent } from '../utils/route'
 
 const routes = [
   {

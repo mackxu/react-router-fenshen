@@ -6,7 +6,7 @@ export default function Root({ route }) {
   return (
     <div>
       <h1>root</h1>
-      <div><Link to="/home">Home</Link></div>
+      <div><Link to="/">Home</Link></div>
       <div><Link to="/login">Login</Link></div>
       <div><Link to="/figure/new_tpl">new tpl</Link></div>
       <div><Link to="/video/list">video list</Link></div>

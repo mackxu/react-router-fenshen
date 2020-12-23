@@ -1,4 +1,4 @@
-import { loadComponent } from "../../../../utils/route"
+import { loadComponent } from "../../utils/route"
 
 const routes = {
   path: '/video',
